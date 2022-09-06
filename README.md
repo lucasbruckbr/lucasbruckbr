@@ -1,5 +1,9 @@
 # SOBRE MIM
 
+## MEU PERFIL
+
+#### INFORMAÇÕES
+
 - OLA MEU NOME É @lucasbruckbr
 - MEU EMAIL DE CONTATO É lucas.bruck@escola.pr.gov.br
 - ESTOU INTERESSADO EM APRENDER A PROGRAMAR NOVAS LINGUAGENS
